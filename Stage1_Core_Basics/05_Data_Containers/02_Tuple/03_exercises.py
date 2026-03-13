@@ -1,0 +1,6 @@
+t = ("周杰伦", 11, ["football", "music"])
+print(f"年龄所在的下标位置是{t.index(11)}")
+print(f"学生的姓名是{t[0]}")
+t[2].remove("football")
+t[2].append("coding")
+print(f"修改后的学生信息：{t}")
