@@ -7,9 +7,9 @@ print(f"t2的类型是：{type(t2)},内容是:{t2}")
 print(f"t3的类型是：{type(t3)},内容是:{t3}")
 
 # 定义单个元素的元组
-t4 = ("樊云飞")
+t4 = ("fanyunfei")
 print(f"t4的类型是：{type(t4)},内容是:{t4}")
-t4 = ("樊云飞",)
+t4 = ("fanyunfei",)
 print(f"t4的类型是：{type(t4)},内容是:{t4}")
 
 # 元组的嵌套

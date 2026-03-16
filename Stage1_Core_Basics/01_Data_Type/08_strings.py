@@ -1,35 +1,35 @@
 # （1）字符串的三种定义方式
-name_single = '樊云飞'
+name_single = 'fanyunfei'
 print(type(name_single),name_single)
 
-name_double = "樊云飞"
+name_double = "fanyunfei"
 print(type(name_double),name_double)
 
-name_triple = """樊云飞"""
+name_triple = """fanyunfei"""
 print(type(name_triple),name_triple)
 
 # 引号嵌套
-name = '"樊云飞"'
+name = '"fanyunfei"'
 print(name)
-name = "'樊云飞'"
+name = "'fanyunfei'"
 print(name)
-name = "\'樊云飞\'"
+name = "\'fanyunfei\'"
 print(name)
-name = '\"樊云飞\"'
+name = '\"fanyunfei\"'
 print(name)
-name = "\"\"樊云飞\"\""
+name = "\"\"fanyunfei\"\""
 print(name)
 
 
 
 
 # （2）字符串的拼接
-print("樊云飞"+"英俊潇洒风流倜傥有钱多金智商高")
+print("fanyunfei"+"英俊潇洒风流倜傥有钱多金智商高")
 
-name = "樊云飞"
-university = "华东师范大学"
+name = "fanyunfei"
+university = "ECNU"
 tel = 13949323982
-Email = "51283901125@stu.ecnu.edu.cn"
+Email = "gisfanyunfei@gmail.com"
 
 print("我的名字是" + name + "，目前就读于" + university + "，邮箱是" + Email + "，电话是" + str(tel))
 
@@ -68,7 +68,7 @@ print(f"{name}成立于{set_up_year}年，今天的股价是{stock_price}")
 # （6）对表达式进行格式化
 print("1 + 1的结果是：%d" %(1 + 1))
 print(f"1 + 1的结果是：{1 +1}")
-print("字符串在python中的类型是：%s" %type("樊云飞"))
+print("字符串在python中的类型是：%s" %type("fanyunfei"))
 
 
 

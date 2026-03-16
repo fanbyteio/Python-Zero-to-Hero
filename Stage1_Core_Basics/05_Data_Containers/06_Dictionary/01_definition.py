@@ -13,9 +13,9 @@ print(f"fanyunfei:{my_dict1["fanyunfei"]}")
 
 
 
-# 定义嵌套字符串
+# 定义嵌套字典
 stu_score_dict = {
-    "樊云飞":{
+    "fanyunfei":{
         "语文":140, "数学":150, "英语":150
     },
     "分页符":{
@@ -26,6 +26,6 @@ stu_score_dict = {
     }
 }
 
-print(f"樊云飞的语文成绩：{stu_score_dict["樊云飞"]["语文"]}")
+print(f"fanyunfei的语文成绩：{stu_score_dict["fanyunfei"]["语文"]}")
 print(f"分页符的数学成绩：{stu_score_dict["分页符"]["数学"]}")
 print(f"慕砚舟的英语成绩：{stu_score_dict["慕砚舟"]["英语"]}")

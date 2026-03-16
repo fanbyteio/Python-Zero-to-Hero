@@ -2,8 +2,8 @@
 result = 10 > 5
 print(f"10 > 5的结果是：{result},类型是：{type(result)}")
 
-result = "樊云飞" == "大丑逼"
-print(f"樊云飞是否是大丑逼：{result},类型是：{type(result)}")
+result = "fanyunfei" == "大丑逼"
+print(f"fanyunfei是否是大丑逼：{result},类型是：{type(result)}")
 
 
 
