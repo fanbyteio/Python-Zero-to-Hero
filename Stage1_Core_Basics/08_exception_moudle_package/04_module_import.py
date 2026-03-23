@@ -17,7 +17,7 @@ print(f"我好")
 
 
 
-# 使用 # 导入time的全部功能
+# 使用 * 导入time的全部功能
 from time import *
 print(f"你好")
 sleep(5)
