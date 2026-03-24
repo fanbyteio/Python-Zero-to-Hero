@@ -13,16 +13,17 @@
 ### Stage 1: 核心基础与底层逻辑 (`Stage1_Core_Basics/`)
 * **`01_Data_Types/`** - 字面量、变量、数据类型转换、字符串格式化等。
 * **`02_Condition_Statements/`** - 布尔类型、比较运算符、if-elif-else 嵌套逻辑。
-* **`03_Loop_Statements/`** - *(规划中：While 与 For 循环)*
-* **`04_Functions/`** - *(规划中：函数定义与调用)*
-* **`05_Data_Containers/`** - *(规划中：列表、字典、元组、集合)*
-* **`06_Advanced_Functions/`** - *(规划中：函数进阶特性)*
-
+* **`03_Loop_Statements/`** - *(While 与 For 循环)*
+* **`04_Functions/`** - *(函数定义与调用)*
+* **`05_Data_Containers/`** - *(列表、字典、元组、集合、字符串)*
+* **`06_Advanced_Functions/`** - *(函数进阶特性)*
+* **`07_File_Operations/`** - *(文件操作)*
+* **`08_Exception_Moudle_Package/`** - *(异常、模块与包)*
+* **`09_Basic_Comprehensive_Case/`** - *(数据可视化基础综合案例)*
 *(Stage 2 & Stage 3 持续规划更新中...)*
 
 ## 🛠️ 技术栈与环境
-* **Language:** Python 3.14
-* **IDE:** VS Code / PyCharm / Typora
-
+* **Language:** Python 3.13
+* **IDE:** VS Code / PyCharm / obsidian / PicGo
 ---
 *If you find this repository helpful, please consider giving it a star! ⭐️*
