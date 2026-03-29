@@ -1,5 +1,5 @@
 # 设计一个类
-class student:
+class Student:
     name = None
     gender = None
     nationality = None
@@ -7,7 +7,7 @@ class student:
     age = None
 
 # 创建一个对象
-stu_1 = student()
+stu_1 = Student()
 
 # 对象属性负值
 stu_1.name = "林俊杰"
